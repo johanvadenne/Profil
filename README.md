@@ -131,4 +131,4 @@
 
 <br><br><br>
 <p align="center">
-<img style="margin-bottom:-4%" width="50%" src="image/android3.png"><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=johanvadenne&" alt="johanvadenne" /></p>
+<img style="margin-bottom:-20px" width="50%" src="image/android3.png"><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=johanvadenne&" alt="johanvadenne" /></p>
