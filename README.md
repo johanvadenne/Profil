@@ -24,39 +24,39 @@
         </tr>
         <tr>
             <td><img src="image/html.png" width="100"></td>
-            <td><img src="image/100.png" height="30"></td>
+            <td><img src="image/100.png" height="40"></td>
         </tr>
         <tr>
             <td><img src="image/css.png" width="80"></td>
-            <td><img src="image/100.png" height="30"></td>
+            <td><img src="image/100.png" height="40"></td>
         </tr>
         <tr>
             <td><img src="image/sql.png" width="80"></td>
-            <td><img src="image/75.png" height="30"></td>
+            <td><img src="image/75.png" height="40"></td>
         </tr>
         <tr>
             <td><img src="image/python.png" width="80"></td>
-            <td><img src="image/75.png" height="30"></td>
+            <td><img src="image/75.png" height="40"></td>
         </tr>
         <tr>
             <td><img src="image/wd.png" width="80"></td>
-            <td><img src="image/50.png" height="30"></td>
+            <td><img src="image/50.png" height="40"></td>
         </tr>
         <tr>
             <td><img src="image/php.png" width="80"></td>
-            <td><img src="image/50.png" height="30"></td>
+            <td><img src="image/50.png" height="40"></td>
         </tr>
         <tr>
             <td><img src="image/JS.png" width="80"></td>
-            <td><img src="image/25.png" height="30"></td>
+            <td><img src="image/25.png" height="40"></td>
         </tr>
         <tr>
             <td><img src="image/c++.png" width="80"></td>
-            <td><img src="image/25.png" height="30"></td>
+            <td><img src="image/25.png" height="40"></td>
         </tr>
         <tr>
             <td><img src="image/csharp.png" width="80"></td>
-            <td><img src="image/10.png" height="30"></td>
+            <td><img src="image/10.png" height="40"></td>
         </tr>
     </tbody>
 </table>
@@ -68,11 +68,11 @@
         </tr>
         <tr>
             <td><img src="image/windows.png" width="80"></td>
-            <td><img src="image/100.png" height="30"></td>
+            <td><img src="image/100.png" height="40"></td>
         </tr>
         <tr>
             <td><img src="image/linux.png" width="80"></td>
-            <td><img src="image/75.png" height="30"></td>
+            <td><img src="image/75.png" height="40"></td>
         </tr>
 </table>
 
@@ -84,31 +84,31 @@
   </tr>
   <tr>
     <td><img src="image/github.png" width="80"></td>
-    <td><img src="image/100.png" height="30"></td>
+    <td><img src="image/100.png" height="40"></td>
   </tr>
   <tr>
     <td><img src="image/visualstudiocode.png" width="80"></td>
-    <td><img src="image/100.png" height="30"></td>
+    <td><img src="image/100.png" height="40"></td>
   </tr>
   <tr>
     <td><img src="image/obsidian.png" width="80"></td>
-    <td><img src="image/100.png" height="30"></td>
+    <td><img src="image/100.png" height="40"></td>
   </tr>
   <tr>
     <td><img src="image/dbforge1.png" width="80"></td>
-    <td><img src="image/75.png" height="30"></td>
+    <td><img src="image/75.png" height="40"></td>
   </tr>
   <tr>
     <td><img src="image/ssms.jpg" width="80"></td>
-    <td><img src="image/75.png" height="30"></td>
+    <td><img src="image/75.png" height="40"></td>
   </tr>
   <tr>
     <td><img src="image/visualstudio.png" width="80"></td>
-    <td><img src="image/50.png" height="30"></td>
+    <td><img src="image/50.png" height="40"></td>
   </tr>
   <tr>
     <td><img src="image/blender.png" width="80"></td>
-    <td><img src="image/25.png" height="30"></td>
+    <td><img src="image/25.png" height="40"></td>
   </tr>
 </table>
 <br>
