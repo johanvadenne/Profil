@@ -24,39 +24,39 @@
         </tr>
         <tr>
             <td><img src="image/html.png" width="40"></td>
-            <td><img src="image/100.jpeg" width="150" height="30"></td>
+            <td><img src="image/100.png" width="150" height="30"></td>
         </tr>
         <tr>
             <td><img src="image/css.png" width="40"></td>
-            <td><img src="image/100.jpeg" width="150" height="30"></td>
+            <td><img src="image/100.png" width="150" height="30"></td>
         </tr>
         <tr>
             <td><img src="image/sql.png" width="40"></td>
-            <td><img src="image/75.jpeg" width="150" height="30"></td>
+            <td><img src="image/75.png" width="150" height="30"></td>
         </tr>
         <tr>
             <td><img src="image/python.png" width="40"></td>
-            <td><img src="image/75.jpeg" width="150" height="30"></td>
+            <td><img src="image/75.png" width="150" height="30"></td>
         </tr>
         <tr>
             <td><img src="image/wd.png" width="40"></td>
-            <td><img src="image/50.jpeg" width="150" height="30"></td>
+            <td><img src="image/50.png" width="150" height="30"></td>
         </tr>
         <tr>
             <td><img src="image/php.png" width="40"></td>
-            <td><img src="image/50.jpeg" width="150" height="30"></td>
+            <td><img src="image/50.png" width="150" height="30"></td>
         </tr>
         <tr>
             <td><img src="image/JS.png" width="40"></td>
-            <td><img src="image/25.jpeg" width="150" height="30"></td>
+            <td><img src="image/25.png" width="150" height="30"></td>
         </tr>
         <tr>
             <td><img src="image/c++.png" width="40"></td>
-            <td><img src="image/25.jpeg" width="150" height="30"></td>
+            <td><img src="image/25.png" width="150" height="30"></td>
         </tr>
         <tr>
             <td><img src="image/csharp.png" width="40"></td>
-            <td><img src="image/10.jpeg" width="150" height="30"></td>
+            <td><img src="image/10.png" width="150" height="30"></td>
         </tr>
     </tbody>
 </table>
@@ -68,11 +68,11 @@
         </tr>
         <tr>
             <td><img src="image/windows.png" width="40"></td>
-            <td><img src="image/100.jpeg" width="150" height="30"></td>
+            <td><img src="image/100.png" width="150" height="30"></td>
         </tr>
         <tr>
             <td><img src="image/linux.png" width="40"></td>
-            <td><img src="image/75.jpeg" width="150" height="30"></td>
+            <td><img src="image/75.png" width="150" height="30"></td>
         </tr>
 </table>
 
@@ -84,31 +84,31 @@
   </tr>
   <tr>
     <td><img src="image/github.png" width="40"></td>
-    <td><img src="image/100.jpeg" width="150" height="30"></td>
+    <td><img src="image/100.png" width="150" height="30"></td>
   </tr>
   <tr>
     <td><img src="image/visualstudiocode.png" width="40"></td>
-    <td><img src="image/100.jpeg" width="150" height="30"></td>
+    <td><img src="image/100.png" width="150" height="30"></td>
   </tr>
   <tr>
     <td><img src="image/obsidian.png" width="40"></td>
-    <td><img src="image/100.jpeg" width="150" height="30"></td>
+    <td><img src="image/100.png" width="150" height="30"></td>
   </tr>
   <tr>
     <td><img src="image/dbforge1.png" width="40"></td>
-    <td><img src="image/75.jpeg" width="150" height="30"></td>
+    <td><img src="image/75.png" width="150" height="30"></td>
   </tr>
   <tr>
     <td><img src="image/ssms.jpg" width="40"></td>
-    <td><img src="image/75.jpeg" width="150" height="30"></td>
+    <td><img src="image/75.png" width="150" height="30"></td>
   </tr>
   <tr>
     <td><img src="image/visualstudio.png" width="40"></td>
-    <td><img src="image/50.jpeg" width="150" height="30"></td>
+    <td><img src="image/50.png" width="150" height="30"></td>
   </tr>
   <tr>
     <td><img src="image/blender.png" width="40"></td>
-    <td><img src="image/25.jpeg" width="150" height="30"></td>
+    <td><img src="image/25.png" width="150" height="30"></td>
   </tr>
 </table>
 <br>
