@@ -69,6 +69,7 @@
         </tr>
 </table>
 
+<h2 align="center">Tools 🔧</h2>
 <table align="center">
   <tr>
     <th>software</th>
@@ -110,12 +111,12 @@
 <h1 align="center">Projets professionnel 👔</h1>
 <h2 align="center"><a href="https://github.com/johanvadenne/les-frelots.git">Les Frelots</a>: <a href="https://lesfrelots.fr">lesfrelots.fr</a></h2>
 <br>
-<h1 align="center">programs</h1>
-<h2 align="center"><a href="https://github.com/johanvadenne/site-creer.git">website</a></h2>
-<h2 align="center"><a href="https://github.com/johanvadenne/python.git">PYTHON</a></h2>
-<h2 align="center"><a href="https://github.com/johanvadenne/php.git">PHP</a></h2>
-<h2 align="center"><a href="https://github.com/johanvadenne/csharp.git">C#</a></h2>
-<h2 align="center"><a href="https://github.com/johanvadenne/HTML-CSS-JS.git">HTML/CSS/JS</a></h2>
+<h1 align="center">programs 👓</h1>
+<h2 align="center"><a href="https://github.com/johanvadenne/site-creer.git">website</a><br>
+<a href="https://github.com/johanvadenne/python.git">PYTHON</a><br>
+<a href="https://github.com/johanvadenne/php.git">PHP</a><br>
+<a href="https://github.com/johanvadenne/csharp.git">C#</a><br>
+<a href="https://github.com/johanvadenne/HTML-CSS-JS.git">HTML/CSS/JS</a></h2>
 <br>
-<h1 align="center">cyber-security</h1>
+<h1 align="center">cyber-security 🔑</h1>
 <h2 align="center"><a href="https://github.com/johanvadenne/Cyber-securite.git">malicious program</a></h2>
