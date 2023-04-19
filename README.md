@@ -2,11 +2,11 @@
 
 <h2 align="center">my passions 🔥</h2>
 
-### IT 💻
-### web development 🌐
-### software development 👨‍💻
-### cyber security 🔒
-### video game 🎮
+<h3 align="center">IT 💻</h3>
+<h3 align="center">web development 🌐</h3>
+<h3 align="center">software development 👨‍💻</h3>
+<h3 align="center">cyber security 🔒</h3>
+<h3 align="center">video game 🎮</h3>
 
 <br>
 <h2 align="center">Languages 📖</h2>
