@@ -24,39 +24,39 @@
         </tr>
         <tr>
             <td><img src="image/html.png" width="100"></td>
-            <td><img src="image/100.png" height="40"></td>
+            <td><b style="background-color: #40ff00; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #40ff00; font-family: sans-serif">90%</b></td>
         </tr>
         <tr>
             <td><img src="image/css.png" width="80"></td>
-            <td><img src="image/100.png" height="40"></td>
+            <td><b style="background-color: #40ff00; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #40ff00; font-family: sans-serif">90%</b></td>
         </tr>
         <tr>
             <td><img src="image/sql.png" width="80"></td>
-            <td><img src="image/75.png" height="40"></td>
+            <td><b style="background-color: #80ff00; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #80ff00; font-family: sans-serif">80%</b></td>
         </tr>
         <tr>
             <td><img src="image/python.png" width="80"></td>
-            <td><img src="image/75.png" height="40"></td>
+            <td><b style="background-color: #80ff00; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #80ff00; font-family: sans-serif">80%</b></td>
         </tr>
         <tr>
             <td><img src="image/wd.png" width="80"></td>
-            <td><img src="image/50.png" height="40"></td>
+            <td><b style="background-color: #ffff00; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #ffff00; font-family: sans-serif">60%</b></td>
         </tr>
         <tr>
             <td><img src="image/php.png" width="80"></td>
-            <td><img src="image/50.png" height="40"></td>
+            <td><b style="background-color: #ffbf00; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #ffbf00; font-family: sans-serif">50%</b></td>
         </tr>
         <tr>
             <td><img src="image/JS.png" width="80"></td>
-            <td><img src="image/25.png" height="40"></td>
-        </tr>
-        <tr>
-            <td><img src="image/c++.png" width="80"></td>
-            <td><img src="image/25.png" height="40"></td>
+            <td><b style="background-color: #ff4000; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #ff4000; font-family: sans-serif">30%</b></td>
         </tr>
         <tr>
             <td><img src="image/csharp.png" width="80"></td>
-            <td><img src="image/10.png" height="40"></td>
+            <td><b style="background-color: #ff4000; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #ff4000; font-family: sans-serif">30%</b></td>
+        </tr>
+        <tr>
+            <td><img src="image/c++.png" width="80"></td>
+            <td><b style="background-color: #8b0000; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #8b0000; font-family: sans-serif">10%</b></td>
         </tr>
     </tbody>
 </table>
@@ -68,11 +68,11 @@
         </tr>
         <tr>
             <td><img src="image/windows.png" width="80"></td>
-            <td><img src="image/100.png" height="40"></td>
+            <td><b style="background-color: #00ffbf; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #00ffbf; font-family: sans-serif">100%</b></td>
         </tr>
         <tr>
             <td><img src="image/linux.png" width="80"></td>
-            <td><img src="image/75.png" height="40"></td>
+            <td><b style="background-color: #80ff00; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #80ff00; font-family: sans-serif">80%</b></td>
         </tr>
 </table>
 
@@ -84,31 +84,31 @@
   </tr>
   <tr>
     <td><img src="image/github.png" width="80"></td>
-    <td><img src="image/100.png" height="40"></td>
-  </tr>
-  <tr>
-    <td><img src="image/visualstudiocode.png" width="80"></td>
-    <td><img src="image/100.png" height="40"></td>
+    <td><b style="background-color: #00ffbf; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #00ffbf; font-family: sans-serif">100%</b></td>
   </tr>
   <tr>
     <td><img src="image/obsidian.png" width="80"></td>
-    <td><img src="image/100.png" height="40"></td>
+    <td><b style="background-color: #00ffbf; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #00ffbf; font-family: sans-serif">100%</b></td>
+  </tr>
+  <tr>
+    <td><img src="image/visualstudiocode.png" width="80"></td>
+    <td><b style="background-color: #40ff00; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #40ff00; font-family: sans-serif">90%</b></td>
   </tr>
   <tr>
     <td><img src="image/dbforge1.png" width="80"></td>
-    <td><img src="image/75.png" height="40"></td>
+    <td><b style="background-color: #bfff00; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #bfff00; font-family: sans-serif">70%</b></td>
   </tr>
   <tr>
     <td><img src="image/ssms.jpg" width="80"></td>
-    <td><img src="image/75.png" height="40"></td>
+    <td><b style="background-color: #bfff00; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #bfff00; font-family: sans-serif">70%</b></td>
   </tr>
   <tr>
     <td><img src="image/visualstudio.png" width="80"></td>
-    <td><img src="image/50.png" height="40"></td>
+    <td><b style="background-color: #ff8000; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #ff8000; font-family: sans-serif">40%</b></td>
   </tr>
   <tr>
     <td><img src="image/blender.png" width="80"></td>
-    <td><img src="image/25.png" height="40"></td>
+    <td><b style="background-color: #ff4000; width:100px; height:100px; display:flex; align-items:center; justify-content:center;font-size:2.5em; border-radius:50%; box-shadow: 0 0 50px #ff4000; font-family: sans-serif">30%</b></td>
   </tr>
 </table>
 <br>
