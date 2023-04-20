@@ -4,16 +4,16 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=johanvadenne&show_icons=true&locale=en" alt="johanvadenne" /></p>
 
 
-<h2 align="center" style="font-size:3em">my passions 🔥</h2>
+<h1 align="center">my passions 🔥</h1>
 
-<h3 align="center" style="font-size:1.7em">IT 💻</h3>
-<h3 align="center" style="font-size:1.7em">web development 🌐</h3>
-<h3 align="center" style="font-size:1.7em">software development 👨‍💻</h3>
-<h3 align="center" style="font-size:1.7em">cyber security 🔒</h3>
-<h3 align="center" style="font-size:1.7em">video game 🎮</h3>
+<h2 align="center">IT 💻</h2>
+<h2 align="center">web development 🌐</h2>
+<h2 align="center">software development 👨‍💻</h2>
+<h2 align="center">cyber security 🔒</h2>
+<h2 align="center">video game 🎮</h2>
 
 <br>
-<h2 align="center" style="font-size:3em">Languages 📖</h2>
+<h1 align="center" style="font-size:3em">Languages 📖</h1>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=johanvadenne&show_icons=true&locale=en&layout=compact" alt="johanvadenne"/></p>
 
@@ -60,7 +60,7 @@
         </tr>
     </tbody>
 </table>
-<h2 align="center" style="font-size:3em">System 📀</h2>
+<h1 align="center" style="font-size:3em">System 📀</h1>
 <table align="center">
         <tr>
             <th style="font-size:2em; text-align:center">System</th>
@@ -76,7 +76,7 @@
         </tr>
 </table>
 
-<h2 align="center" style="font-size:3em">Tools 🔧</h2>
+<h1 align="center" style="font-size:3em">Tools 🔧</h1>
 <table align="center">
   <tr>
     <th style="font-size:2em; text-align:center">software</th>
