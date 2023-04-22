@@ -48,7 +48,7 @@
         </tr>
         <tr>
             <td style="width:220px; padding-left:140px;"><img src="image/JS.png" width="80"></td>
-            <td style="width:220px; padding-left:140px;"><img width="150px" src="image/cercle30.png"></td>
+            <td style="width:220px; padding-left:140px;"><img width="150px" src="image/cercle40.png"></td>
         </tr>
         <tr>
             <td style="width:220px; padding-left:140px;"><img src="image/csharp.png" width="80"></td>
