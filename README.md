@@ -83,16 +83,16 @@
     <th style="font-size:2em; text-align:center">Level</th>
   </tr>
   <tr>
-    <td style="width:220px; padding-left:140px;"><img src="image/github.png" width="80"></td>
-    <td style="width:220px; padding-left:140px;"><img width="150px" src="image/cercle70.png"></td>
-  </tr>
-  <tr>
     <td style="width:220px; padding-left:140px;"><img src="image/obsidian.png" width="80"></td>
     <td style="width:220px; padding-left:140px;"><img width="150px" src="image/cercle100.png"></td>
   </tr>
   <tr>
     <td style="width:220px; padding-left:140px;"><img src="image/visualstudiocode.png" width="80"></td>
-    <td style="width:220px; padding-left:140px;"><img width="150px" src="image/cercle90.png"></td>
+    <td style="width:220px; padding-left:140px;"><img width="150px" src="image/cercle80.png"></td>
+  </tr>
+  <tr>
+    <td style="width:220px; padding-left:140px;"><img src="image/github.png" width="80"></td>
+    <td style="width:220px; padding-left:140px;"><img width="150px" src="image/cercle70.png"></td>
   </tr>
   <tr>
     <td style="width:220px; padding-left:140px;"><img src="image/dbforge1.png" width="80"></td>
@@ -124,7 +124,8 @@
 <a href="https://github.com/johanvadenne/php.git">PHP</a><br>
 <a href="https://github.com/johanvadenne/csharp.git">C#</a><br>
 <a href="https://github.com/johanvadenne/HTML-CSS-JS.git">HTML/CSS/JS</a><br>
-<a href="https://github.com/johanvadenne/markdown.git">Markdown</a></h2>
+<a href="https://github.com/johanvadenne/markdown.git">Markdown</a><br>
+<a href="https://github.com/johanvadenne/stie-web-stage.git">site-web-stage</a></h2>
 <br>
 <h1 align="center">cyber-security 🔑</h1>
 <h2 align="center" style="font-size:3em"><a href="https://github.com/johanvadenne/Cyber-securite.git">malicious program</a></h2>
